@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Arduino-like IDE",
+		"Better CoffeeScript",
+		"CoffeeAngular Syntax",
+		"FileSystem Autocompletion",
+		"FuzzyFilePath",
+		"HackerTyper",
+		"Haml",
+		"Highlighter",
+		"HTML2Haml",
+		"Jade",
+		"Jade Build",
+		"JSLint",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"RSpec",
+		"Ruby Markers",
+		"SCSS",
+		"Simple Print Function",
+		"SqlBeautifier",
+		"TodoReview"
+	]
+}
