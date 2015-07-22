@@ -29,6 +29,7 @@
 		"SqlBeautifier",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
+		"SublimeLinter-ruby",
 		"TodoReview"
 	]
 }
