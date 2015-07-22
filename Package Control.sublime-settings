@@ -15,8 +15,10 @@
 		"Haml",
 		"Highlighter",
 		"HTML2Haml",
+		"HTMLBeautify",
 		"Jade",
 		"Jade Build",
+		"JavaScript & NodeJS Snippets",
 		"LESS",
 		"Markdown Preview",
 		"Package Control",
@@ -25,6 +27,8 @@
 		"SCSS",
 		"Simple Print Function",
 		"SqlBeautifier",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"TodoReview"
 	]
 }
