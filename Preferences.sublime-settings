@@ -25,7 +25,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"line_padding_bottom": 5,
 	"rulers":
