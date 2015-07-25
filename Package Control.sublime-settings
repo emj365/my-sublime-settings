@@ -8,6 +8,7 @@
 		"All Autocomplete",
 		"AngularJS",
 		"Arduino-like IDE",
+		"BeautifyRuby",
 		"Better CoffeeScript",
 		"Better RSpec",
 		"BracketHighlighter",
@@ -34,6 +35,7 @@
 		"MarkdownEditing",
 		"Nodejs",
 		"Package Control",
+		"Pretty Ruby",
 		"RSpec",
 		"Ruby Markers",
 		"SCSS",
@@ -47,6 +49,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-ruby",
+		"Theme - Soda",
 		"TodoReview"
 	]
 }
