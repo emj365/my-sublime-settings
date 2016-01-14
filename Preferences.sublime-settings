@@ -20,13 +20,13 @@
 		"node_modules"
 	],
 	"font_face": "Monaco",
-	"font_size": 14.0,
+	"font_size": 15.0,
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"line_padding_bottom": 5,
 	"rulers":

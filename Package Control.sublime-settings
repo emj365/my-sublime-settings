@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -38,7 +39,9 @@
 		"Nodejs",
 		"Package Control",
 		"Pretty Ruby",
+		"Rails Magic Clipboard",
 		"RSpec",
+		"Ruby Debugger",
 		"Ruby Markers",
 		"SCSS",
 		"SideBarEnhancements",
@@ -51,6 +54,9 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-ruby",
-		"TodoReview"
+		"Theme - Soda",
+		"TodoReview",
+		"TomDoc",
+		"yardoc"
 	]
 }
