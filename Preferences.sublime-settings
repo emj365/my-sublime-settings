@@ -1,6 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/SublimeLinter/Solarized-ocean (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Bittersweet (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
@@ -17,7 +17,9 @@
 	"folder_exclude_patterns":
 	[
 		".git",
-		"node_modules"
+		"node_modules",
+		"dist",
+		"coverage"
 	],
 	"font_face": "Monaco",
 	"font_size": 13.0,
