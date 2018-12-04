@@ -65,6 +65,7 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-flow",
+		"SublimeLinter-golint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
