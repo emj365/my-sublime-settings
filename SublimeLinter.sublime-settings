@@ -4,7 +4,7 @@
   "gutter_theme": "Circle",
   "paths": {
     "linux": [],
-    "osx": ["/Users/michaeljin/.nvm/versions/node/v10.13.0/bin"],
+    "osx": ["/usr/local/bin"],
     "windows": []
   },
   "linters":{
