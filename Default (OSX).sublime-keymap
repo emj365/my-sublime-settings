@@ -1,8 +1,9 @@
 [
-  {"keys": ["ctrl+r"], "command": "noop" },
-  {"keys": ["ctrl+d"], "command": "noop" },
-  {"keys": ["ctrl+shift+r"], "command": "node_run"},
-  {"keys": ["ctrl+shift+d"], "command": "node_drun"},
+  { "keys": ["ctrl+r"], "command": "noop" },
+  { "keys": ["shift+backspace"], "command": "right_delete" },
+  { "keys": ["ctrl+d"], "command": "right_delete" },
+  { "keys": ["ctrl+shift+r"], "command": "node_run" },
+  { "keys": ["ctrl+shift+d"], "command": "node_drun" },
   { "keys": ["alt+super+/"], "command": "noop"},
   { "keys": ["ctrl+super+/"], "command": "file_system_comp_trigger"}
 ]
